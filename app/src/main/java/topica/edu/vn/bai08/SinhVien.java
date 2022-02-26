@@ -6,4 +6,6 @@ public class SinhVien {
     private  int ngay;
     private  String name;
     private String sdt;
+    private  String diachi;
+    private String cmnd;
 }
