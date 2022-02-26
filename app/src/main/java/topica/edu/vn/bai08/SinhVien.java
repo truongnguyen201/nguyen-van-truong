@@ -5,5 +5,5 @@ public class SinhVien {
     private  int thang;
     private  int ngay;
     private  String name;
-
+    private String sdt;
 }
