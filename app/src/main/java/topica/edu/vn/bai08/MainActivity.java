@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     int n=8;
     String t="truong nguyen"
+        String truong ="truong567asd"
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
